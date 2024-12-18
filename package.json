@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "rxjs": "next"
+    "rxjs": "^8.0.0-alpha.14"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
   }
 }
